@@ -23,8 +23,9 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
     ``` 
 
  #### Installing Pre-requisites
- For Mac users:
  
+    For Mac users:
+
  1. Install [homebrew](http://brew.sh/) into your system.
  
  2. Execute following list of commands from your shell:
@@ -37,11 +38,9 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
      sudo pip install pyserial empy
      ```
  
+  For Linux users, execute following command in your terminal:
  
- For Linux users:
- 
- 1. Execute following command in your terminal:
-     ```
+         ```
      sudo apt-get install python-serial openocd \
      flex bison libncurses5-dev autoconf texinfo build-essential \
      libftdi-dev libtool zlib1g-dev \
