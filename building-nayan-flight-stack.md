@@ -22,9 +22,9 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
     sudo add-apt-repository --remove ppa:team-gcc-arm-embedded/ppa
     ``` 
 
- #### Installing Pre-requisites
+#### Pre-requisites Installation
  
-    For Mac users:
+For Mac users:
 
  1. Install [homebrew](http://brew.sh/) into your system.
  
