@@ -40,7 +40,7 @@ For Mac users:
  
   For Linux users, execute following command in your terminal:
  
-         ```
+     ```
      sudo apt-get install python-serial openocd \
      flex bison libncurses5-dev autoconf texinfo build-essential \
      libftdi-dev libtool zlib1g-dev \
