@@ -10,8 +10,8 @@ While switching the master is put into offboard mode and accepts unmixed motor c
 ####Master Controller as Sole Flight controller
 It is also possible to use it as the main controller that interacts withonboard computer. To use it as the sole controller ensure that Master USB port on Flight Board is connected to onboard computer.
 
-{% hint style='info' %}
-Please do not modify PX4 Firmware on Master Controller for your and drones safety, if you need to develop on Autopilot end use the first mode of operation.
+{% hint style='warning' %}
+Try not to modify PX4 Firmware on Master Controller for your and drones safety, if you need to develop on Autopilot end use the first mode of operation.
 {% endhint %}
 
 
