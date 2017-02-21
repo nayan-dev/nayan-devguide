@@ -1,6 +1,5 @@
 ## Master Controller
 
-## Master Controller
 
 ####Master Controller as Failsafe Controller
 
