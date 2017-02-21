@@ -3,7 +3,7 @@
 Nayan's Basic setup contains following modules:
 
 1. [Master Controller](/nayan-hardware-setup/master-controller.md)
-2. Slave Controller
+2. [Slave Controller](/nayan-hardware-setup/slave-controller)
 3. Onboard Computer
 4. Sensors:
    1. GPS and Compass Integrated
