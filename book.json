@@ -2,8 +2,7 @@
     "plugins": ["hints"]
     "pluginsConfig": {
         "fontsettings": {
-            "theme": 'night',
-            "family": 'sans'
+            "theme": 'night'
         }
     }
 }
