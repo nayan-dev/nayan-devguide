@@ -3,7 +3,7 @@
 
     "pluginsConfig": {
         "fontsettings": {
-            "theme": "white",
+            "theme": "night",
             "family": "sans",
             "size": 2
         }
