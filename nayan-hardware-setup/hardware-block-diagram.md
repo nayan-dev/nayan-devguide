@@ -1,6 +1,5 @@
 ## Hardware Block Diagram
 
-
-![](/assets/Autopilot block diagram  copy.png)
+![](/assets/Autopilot block .png)
 
 
